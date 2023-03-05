@@ -1,0 +1,408 @@
+Log of the Simulation
+---------------------
+job id: 1
+job type: D
+jobs request time: 0
+jobs end time: 6
+jobs turnaround time: 6
+jobs performed on pad A
+
+job id: 2
+job type: A
+jobs request time: 0
+jobs end time: 6
+jobs turnaround time: 6
+jobs performed on pad B
+
+job id: 3
+job type: D
+jobs request time: 2
+jobs end time: 10
+jobs turnaround time: 8
+jobs performed on pad A
+
+job id: 4
+job type: A
+jobs request time: 2
+jobs end time: 10
+jobs turnaround time: 8
+jobs performed on pad B
+
+job id: 11
+job type: L
+jobs request time: 8
+jobs end time: 12
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 5
+job type: D
+jobs request time: 4
+jobs end time: 16
+jobs turnaround time: 12
+jobs performed on pad A
+
+job id: 6
+job type: A
+jobs request time: 4
+jobs end time: 16
+jobs turnaround time: 12
+jobs performed on pad B
+
+job id: 8
+job type: A
+jobs request time: 6
+jobs end time: 20
+jobs turnaround time: 14
+jobs performed on pad B
+
+job id: 7
+job type: D
+jobs request time: 6
+jobs end time: 20
+jobs turnaround time: 14
+jobs performed on pad A
+
+job id: 9
+job type: D
+jobs request time: 8
+jobs end time: 24
+jobs turnaround time: 16
+jobs performed on pad A
+
+job id: 10
+job type: A
+jobs request time: 8
+jobs end time: 24
+jobs turnaround time: 16
+jobs performed on pad B
+
+job id: 22
+job type: L
+jobs request time: 24
+jobs end time: 28
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 25
+job type: L
+jobs request time: 26
+jobs end time: 30
+jobs turnaround time: 4
+jobs performed on pad B
+
+job id: 28
+job type: L
+jobs request time: 28
+jobs end time: 32
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 13
+job type: A
+jobs request time: 10
+jobs end time: 36
+jobs turnaround time: 26
+jobs performed on pad B
+
+job id: 12
+job type: D
+jobs request time: 10
+jobs end time: 38
+jobs turnaround time: 28
+jobs performed on pad A
+
+job id: 33
+job type: L
+jobs request time: 36
+jobs end time: 40
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 15
+job type: A
+jobs request time: 12
+jobs end time: 44
+jobs turnaround time: 32
+jobs performed on pad B
+
+job id: 38
+job type: E
+jobs request time: 40
+jobs end time: 44
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 39
+job type: E
+jobs request time: 40
+jobs end time: 46
+jobs turnaround time: 6
+jobs performed on pad A
+
+job id: 42
+job type: L
+jobs request time: 42
+jobs end time: 48
+jobs turnaround time: 6
+jobs performed on pad A
+
+job id: 45
+job type: L
+jobs request time: 44
+jobs end time: 48
+jobs turnaround time: 4
+jobs performed on pad B
+
+job id: 17
+job type: A
+jobs request time: 14
+jobs end time: 52
+jobs turnaround time: 38
+jobs performed on pad B
+
+job id: 14
+job type: D
+jobs request time: 12
+jobs end time: 52
+jobs turnaround time: 40
+jobs performed on pad A
+
+job id: 16
+job type: D
+jobs request time: 14
+jobs end time: 56
+jobs turnaround time: 42
+jobs performed on pad A
+
+job id: 19
+job type: A
+jobs request time: 18
+jobs end time: 56
+jobs turnaround time: 38
+jobs performed on pad B
+
+job id: 53
+job type: L
+jobs request time: 54
+jobs end time: 58
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 18
+job type: D
+jobs request time: 18
+jobs end time: 62
+jobs turnaround time: 44
+jobs performed on pad A
+
+job id: 21
+job type: A
+jobs request time: 24
+jobs end time: 62
+jobs turnaround time: 38
+jobs performed on pad B
+
+job id: 20
+job type: D
+jobs request time: 24
+jobs end time: 66
+jobs turnaround time: 42
+jobs performed on pad A
+
+job id: 24
+job type: A
+jobs request time: 26
+jobs end time: 66
+jobs turnaround time: 40
+jobs performed on pad B
+
+job id: 62
+job type: L
+jobs request time: 62
+jobs end time: 68
+jobs turnaround time: 6
+jobs performed on pad A
+
+job id: 27
+job type: A
+jobs request time: 28
+jobs end time: 72
+jobs turnaround time: 44
+jobs performed on pad B
+
+job id: 66
+job type: L
+jobs request time: 70
+jobs end time: 72
+jobs turnaround time: 2
+jobs performed on pad A
+
+job id: 30
+job type: A
+jobs request time: 32
+jobs end time: 76
+jobs turnaround time: 44
+jobs performed on pad B
+
+job id: 23
+job type: D
+jobs request time: 26
+jobs end time: 78
+jobs turnaround time: 52
+jobs performed on pad A
+
+job id: 32
+job type: A
+jobs request time: 36
+jobs end time: 80
+jobs turnaround time: 44
+jobs performed on pad B
+
+job id: 26
+job type: D
+jobs request time: 28
+jobs end time: 82
+jobs turnaround time: 54
+jobs performed on pad A
+
+job id: 34
+job type: A
+jobs request time: 38
+jobs end time: 84
+jobs turnaround time: 46
+jobs performed on pad B
+
+job id: 78
+job type: E
+jobs request time: 80
+jobs end time: 84
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 81
+job type: E
+jobs request time: 80
+jobs end time: 86
+jobs turnaround time: 6
+jobs performed on pad A
+
+job id: 77
+job type: L
+jobs request time: 80
+jobs end time: 88
+jobs turnaround time: 8
+jobs performed on pad A
+
+job id: 88
+job type: L
+jobs request time: 86
+jobs end time: 90
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 37
+job type: A
+jobs request time: 40
+jobs end time: 94
+jobs turnaround time: 54
+jobs performed on pad B
+
+job id: 29
+job type: D
+jobs request time: 32
+jobs end time: 96
+jobs turnaround time: 64
+jobs performed on pad A
+
+job id: 41
+job type: A
+jobs request time: 42
+jobs end time: 98
+jobs turnaround time: 56
+jobs performed on pad B
+
+job id: 31
+job type: D
+jobs request time: 36
+jobs end time: 100
+jobs turnaround time: 64
+jobs performed on pad A
+
+job id: 44
+job type: A
+jobs request time: 44
+jobs end time: 102
+jobs turnaround time: 58
+jobs performed on pad B
+
+job id: 99
+job type: L
+jobs request time: 98
+jobs end time: 102
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 47
+job type: A
+jobs request time: 46
+jobs end time: 106
+jobs turnaround time: 60
+jobs performed on pad B
+
+job id: 103
+job type: L
+jobs request time: 102
+jobs end time: 106
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 106
+job type: L
+jobs request time: 104
+jobs end time: 108
+jobs turnaround time: 4
+jobs performed on pad A
+
+job id: 48
+job type: A
+jobs request time: 48
+jobs end time: 112
+jobs turnaround time: 64
+jobs performed on pad B
+
+job id: 35
+job type: D
+jobs request time: 38
+jobs end time: 112
+jobs turnaround time: 74
+jobs performed on pad A
+
+job id: 50
+job type: A
+jobs request time: 50
+jobs end time: 116
+jobs turnaround time: 66
+jobs performed on pad B
+
+job id: 36
+job type: D
+jobs request time: 40
+jobs end time: 116
+jobs turnaround time: 76
+jobs performed on pad A
+
+job id: 40
+job type: D
+jobs request time: 42
+jobs end time: 120
+jobs turnaround time: 78
+jobs performed on pad A
+
+job id: 54
+job type: A
+jobs request time: 54
+jobs end time: 120
+jobs turnaround time: 66
+jobs performed on pad B
+
